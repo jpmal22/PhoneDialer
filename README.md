@@ -1,4 +1,4 @@
--# Phone Dialer App
+# Phone Dialer App
 
 This is a simple Android phone dialer application. It allows users to input a phone number and initiate a call.
 
