@@ -1,0 +1,37 @@
+# Ignore all .iml files
+*.iml
+
+# Ignore the .gradle directory at the root of the project
+.gradle
+
+# Ignore the local.properties file at the root of the project
+local.properties
+
+# Ignore all files and directories in the .idea directory, except for the workspace.xml file
+/.idea/*
+!/idea/workspace.xml
+
+# Ignore caches, libraries, and other specific files in the .idea directory
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+
+# Ignore macOS-specific files
+.DS_Store
+
+# Ignore the build directory at the root and in any subdirectories
+/build
+*/build
+
+# Ignore captures directory
+/captures
+
+# Ignore external native build directories
+.externalNativeBuild
+.cxx
+
+# Ignore Windows-specific files
+Thumbs.db
